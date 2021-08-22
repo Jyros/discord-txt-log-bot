@@ -1,5 +1,11 @@
 # discord-log-moderator-bot
 
+#### önce star at sonra oku bi aq
+
+### Not:
+
+Proje tam olarak hazır değil. Bitirip buraya atıcam.
+
 ## Explanation
 
 Selam! Geliştirilmeye hazır bir projeyle yine burdayım ksşfdlksdf 
