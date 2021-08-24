@@ -1,0 +1,18 @@
+{
+"log-channelCreate":"",
+"log-channelDelete":"",
+"log-guildMemberAdd":"",
+"log-guildMemberLeave":"",
+"log-messageDelete":"",
+"log-messageUpdate":"",
+"log-voice":"",
+
+    "BOT": {
+        "VOICE_CHANNEL":"",
+    "ACTIVITY": {
+        "NAME":["Developed by Jyross.","Jyross ❤️ "," ❤️ Jyross"],
+        "STATUS":"dnd",
+        "TYPE":"LISTENING"
+    }
+}
+}
