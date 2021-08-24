@@ -1,5 +1,3 @@
-# discord-log-moderator-bot
-
 #### önce star at sonra oku bi aq
 
 ### Not:
