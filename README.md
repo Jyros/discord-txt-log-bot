@@ -1,5 +1,7 @@
 #### önce star at sonra oku bi aq
 
+### Bu proje, geliştirilmeye hazır bir proje olduğu için paylaşılmıştır. Fazla özellik eklemedim yani anladın mı? aptal botcu degilm
+
 ## Explanation
 
 Selam! Geliştirilmeye hazır bir projeyle yine burdayım ksşfdlksdf 
